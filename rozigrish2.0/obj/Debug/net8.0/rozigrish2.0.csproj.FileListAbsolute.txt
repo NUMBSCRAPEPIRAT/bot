@@ -1,0 +1,17 @@
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigrish2.0.csproj.AssemblyReference.cache
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigrish2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigrish2.0.AssemblyInfoInputs.cache
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigrish2.0.AssemblyInfo.cs
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigrish2.0.csproj.CoreCompileInputs.cache
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\bin\Debug\net8.0\rozigrish2.0.exe
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\bin\Debug\net8.0\rozigrish2.0.deps.json
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\bin\Debug\net8.0\rozigrish2.0.runtimeconfig.json
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\bin\Debug\net8.0\rozigrish2.0.dll
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\bin\Debug\net8.0\rozigrish2.0.pdb
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigris.BFC73B71.Up2Date
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigrish2.0.dll
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\refint\rozigrish2.0.dll
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigrish2.0.pdb
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\rozigrish2.0.genruntimeconfig.cache
+C:\Users\Леново\source\repos\rozigrish2.0\rozigrish2.0\obj\Debug\net8.0\ref\rozigrish2.0.dll
